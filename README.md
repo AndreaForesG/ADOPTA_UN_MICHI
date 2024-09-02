@@ -1,5 +1,7 @@
 Adopta un Michi - Plataforma de Adopción de Gatos
-¡Bienvenido a Adopta un Michi! 🐾 La plataforma web perfecta para encontrar y adoptar a tu nuevo amigo felino. Adopta un Michi conecta a gatos adorables con familias amorosas a través de una experiencia en línea intuitiva y amigable.
+
+¡Bienvenido a Adopta un Michi! 🐾 La plataforma web perfecta para encontrar y adoptar a tu nuevo amigo felino. 
+Adopta un Michi conecta a gatos adorables con familias amorosas a través de una experiencia en línea intuitiva y amigable.
 
 📋 Descripción del Proyecto
 Adopta un Michi es una plataforma web diseñada para facilitar el proceso de adopción de gatos. Permite a los usuarios explorar una variedad de perfiles de gatos disponibles para adopción, filtrar por características específicas y contactar a los refugios o dueños para más detalles.
