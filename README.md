@@ -1,4 +1,4 @@
-Adopta un Michi - Plataforma de Adopción de Gatos
+ADOPTA UN MICHI - Plataforma de Adopción de Gatos
 
 ¡Bienvenido a Adopta un Michi! 🐾 La plataforma web perfecta para encontrar y adoptar a tu nuevo amigo felino. 
 Adopta un Michi conecta a gatos adorables con familias amorosas a través de una experiencia en línea intuitiva y amigable.
@@ -13,25 +13,18 @@ Adopta un Michi es una plataforma web diseñada para facilitar el proceso de ado
 🚀 Características
 
 
-Explora Gatos Disponibles: Navega a través de perfiles de gatos con fotos, descripciones y detalles sobre su personalidad.
-
-Filtros Avanzados: Busca gatos por raza, edad, tamaño, y más para encontrar el compañero perfecto.
-
-Formulario de Adopción: Completa una solicitud en línea para adoptar un gato directamente desde el sitio.
-
-Información de Refugios: Accede a detalles de contacto y direcciones de refugios locales y organizaciones de rescate.
-
-Perfil del Usuario: Crea y gestiona tu perfil para recibir actualizaciones sobre nuevas adopciones y más.
+- Explora Gatos Disponibles: Navega a través de perfiles de gatos con fotos, descripciones y detalles sobre su personalidad.
+- Filtros Avanzados: Busca gatos por raza, edad, tamaño, y más para encontrar el compañero perfecto.
+- Formulario de Adopción: Completa una solicitud en línea para adoptar un gato directamente desde el sitio.
+- Información de Refugios: Accede a detalles de contacto y direcciones de refugios locales y organizaciones de rescate.
+- Perfil del Usuario: Crea y gestiona tu perfil para recibir actualizaciones sobre nuevas adopciones y más.
 
 
 
 💡 Tecnologías Utilizadas
 
 
-Frontend: Angular, HTML5, CSS3, Javascript
-
-Backend: Laravel, PHP
-
-Base de Datos: PhpMyAdmin
-
-Autenticación: JSON Web Tokens (JWT)
+- Frontend: Angular, HTML5, CSS3, Javascript
+- Backend: Laravel, PHP
+- Base de Datos: PhpMyAdmin
+- Autenticación: JSON Web Tokens (JWT)
