@@ -23,6 +23,9 @@ Perfil del Usuario: Crea y gestiona tu perfil para recibir actualizaciones sobre
 💡 Tecnologías Utilizadas
 
 Frontend: Angular, HTML5, CSS3, Javascript
+
 Backend: Laravel, PHP
+
 Base de Datos: PhpMyAdmin
+
 Autenticación: JSON Web Tokens (JWT)
