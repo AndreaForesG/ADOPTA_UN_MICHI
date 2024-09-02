@@ -10,10 +10,15 @@ Adopta un Michi es una plataforma web diseñada para facilitar el proceso de ado
 🚀 Características
 
 Explora Gatos Disponibles: Navega a través de perfiles de gatos con fotos, descripciones y detalles sobre su personalidad.
+
 Filtros Avanzados: Busca gatos por raza, edad, tamaño, y más para encontrar el compañero perfecto.
+
 Formulario de Adopción: Completa una solicitud en línea para adoptar un gato directamente desde el sitio.
+
 Información de Refugios: Accede a detalles de contacto y direcciones de refugios locales y organizaciones de rescate.
+
 Perfil del Usuario: Crea y gestiona tu perfil para recibir actualizaciones sobre nuevas adopciones y más.
+
 
 💡 Tecnologías Utilizadas
 
